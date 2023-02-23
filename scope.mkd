@@ -6,4 +6,4 @@ The database will store data regarding members. Members can create accounts with
 
 The database will also need to track data from donations, virtual store, and online events calendar. Donations will need to be tracked by amount, date, ID, and membership status as single donations of at least $20 earn a membership; but only one membership per account. Reciepts for tax purposes will also need to be provided to both the donor and reciepent. The database will need to track inventory, sales, and customer meta data for the virtual store as well as software that protects users credit card information and privacy. An online calendar will need to be accessed by members and Climate Action Staff. Calendar events will need to include: date, time, duration, location, sponsor, cost, materials needed, instructor name, description, comments section, sharing capability across variety of platforms and formats, links to relevant posts/organization, and contain higher administrative access for CAS staff to validate events. 
 
-Madelyn Brandt
+Brandt, M.B.
