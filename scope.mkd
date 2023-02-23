@@ -1,0 +1,9 @@
+
+This database will be used in conjuction with the client's Climate Action site (CAS). The CAS will allow for a variety of functions including: virtual store, donations, comments, creation of posts containing links and resources, calendar with active links, newsletters, fundraising, and a small team with administrative access to delete inaccurate member posts
+
+
+The database will store data regarding members. Members can create accounts with option to recieve monthly Newsletter. Only members may post comments on events and resources, but all resources must be visable to non-members. Only one membership per account! An alternate way to become a member is if a minimum of $20 is donated at one time in only one instance. Administrative access togranted to Climate Action staff to regulate information. 
+
+The database will also need to track data from donations, virtual store, and online events calendar. Donations will need to be tracked by amount, date, ID, and membership status as single donations of at least $20 earn a membership; but only one membership per account. Reciepts for tax purposes will also need to be provided to both the donor and reciepent. The database will need to track inventory, sales, and customer meta data for the virtual store as well as software that protects users credit card information and privacy. An online calendar will need to be accessed by members and Climate Action Staff. Calendar events will need to include: date, time, duration, location, sponsor, cost, materials needed, instructor name, description, comments section, sharing capability across variety of platforms and formats, links to relevant posts/organization, and contain higher administrative access for CAS staff to validate events. 
+
+Madelyn Brandt
